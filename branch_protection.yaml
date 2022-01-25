@@ -6,3 +6,4 @@ requireApproval: true
 approvalCount: 1
 dismissStale: false
 blockForce: false
+issueLabel: infosec-allstar
